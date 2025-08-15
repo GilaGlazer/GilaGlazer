@@ -1,6 +1,6 @@
 <!-- Optional animated banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Welcome GIF" width="100%" />
+  <img src="https://github.com/GilaGlazer/GilaGlazer/blob/main/gila_glazer_animated.gif?raw=true" alt="Gila Glazer - Full Stack & AI Developer" />
 </p>
 
 # 👋 Gila Glazer | Software Developer
@@ -27,7 +27,7 @@ C# · Java · Python · JavaScript · TypeScript · SQL
 .NET · Node.js · React · Angular · Express · ASP.NET Core Web API
 
 **Databases & APIs:**  
-MongoDB · PostgreSQL · REST APIs
+MongoDB · REST APIs
 
 **DevOps & Cloud:**  
 AWS (Lambda, S3, Bedrock) · Docker · Git · Swagger
@@ -36,7 +36,7 @@ AWS (Lambda, S3, Bedrock) · Docker · Git · Swagger
 
 ## 💼 Experience
 
-### 🔹 Full Stack Developer @ Inferai (2025–Present)
+### 🔹 Full Stack Developer Inferai (2025–Present)
 AI-powered communication platform using Retrieval-Augmented Generation (RAG)
 
 - 🧠 Developed modern conversational UI with React, Node.js, and Python
