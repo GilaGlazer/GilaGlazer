@@ -116,6 +116,5 @@ AI-powered communication platform using Retrieval-Augmented Generation (RAG)
 ## 🚀 Let's Connect!
 
 📧 g0583247266@gmail.com  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)  
 📍 Based in Israel  
 🤝 Open to new opportunities and collaborations
