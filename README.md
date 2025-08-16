@@ -108,9 +108,9 @@ AI-powered communication platform using Retrieval-Augmented Generation (RAG)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GilaGlazer&show_icons=true&theme=tokyonight" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilaGlazer&layout=compact&theme=tokyonight" style="height: 200px;"/>
+<div align="center" style="background-color: white; padding: 20px; border-radius: 10px; display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GilaGlazer&show_icons=true&theme=default&hide_border=true" width="400" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilaGlazer&layout=compact&theme=default&hide_border=true" width="300" height="200"/>
 </div>
 
 ---
