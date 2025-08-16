@@ -5,7 +5,7 @@
 
 # 👋 Gila Glazer | Software Developer
 
-[📫 Email Me](mailto:g0583247266@gmail.com) • [🔗 GitHub](https://github.com/GilaGlazer) • [💼 LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) • [📞 058-324-7266](tel:0583247266)
+[📫 Email Me](mailto:g0583247266@gmail.com) • [🔗 GitHub](https://github.com/GilaGlazer) • [📞 058-324-7266](tel:0583247266)
 
 ---
 
