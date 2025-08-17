@@ -1,7 +1,7 @@
 <!-- Optional animated banner -->
 <p align="center">
-  <img src="https://github.com/GilaGlazer/GilaGlazer/blob/main/gila_glazer_animated.gif?raw=true" alt="Gila Glazer - Full Stack & AI Developer" />
-</p>
+<!--   <img src="https://github.com/GilaGlazer/GilaGlazer/blob/main/gila_glazer_animated.gif?raw=true" alt="Gila Glazer - Full Stack & AI Developer" />
+</p> -->
 
 # 👋 Gila Glazer | Software Developer
 
