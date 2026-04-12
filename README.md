@@ -67,7 +67,7 @@ I'm passionate about AI, cloud technologies, and system architecture, and always
 
 ## 💼 Experience
 
-### 🔹 Full Stack Developer Inferai (2025–Present)
+### 🔹 AI & Full Stack Engineer at Inerai (2025–Present)
 AI-powered communication platform using Retrieval-Augmented Generation (RAG)
 
 - 🧠 Developed modern conversational UI with React, Node.js, and Python
@@ -94,7 +94,7 @@ AI-powered communication platform using Retrieval-Augmented Generation (RAG)
 ## 🎓 Education
 
 **Software Engineering | MAHAT – College of Management**  
-📅 2023–2025 | 🎓 GPA: 98%  
+📅 2022–2024 | 🎓 GPA: 99%  
 🎯 Completed advanced courses in engineering algorithms & ultra-code topics.
 
 ---
@@ -119,4 +119,3 @@ AI-powered communication platform using Retrieval-Augmented Generation (RAG)
 
 📧 g0583247266@gmail.com  
 📍 Based in Israel  
-🤝 Open to new opportunities and collaborations
