@@ -3,7 +3,7 @@
 <!--   <img src="https://github.com/GilaGlazer/GilaGlazer/blob/main/gila_glazer_animated.gif?raw=true" alt="Gila Glazer - Full Stack & AI Developer" />
 </p> -->
 
-# 👋 Gila Glazer | Software Developer
+# 👋 Gila Glazer | AI & Full Stack Engineer
 
 [📫 Email Me](mailto:g0583247266@gmail.com) • [🔗 GitHub](https://github.com/GilaGlazer) • [📞 058-324-7266](tel:0583247266)
 
@@ -11,7 +11,7 @@
 
 ## 👩‍💻 About Me
 
-I am a Full Stack Engineer dedicated to architecting robust, scalable AI-native ecosystems from the ground up.
+I am an AI & Full Stack Engineer dedicated to architecting robust, scalable AI-native ecosystems from the ground up.
 Focused on building robust, scalable systems and cloud architectures, specializing in end-to-end development of AI-driven platforms. A strong team player with a proven ability to translate complex requirements into high-performance production code, committed to engineering excellence and delivering quality results in fast-paced environments.
 
 💡 **Strong team player** | 🧠 **Fast learner** | ⚙️ **Loves working with tech & people**
