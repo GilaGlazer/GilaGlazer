@@ -68,14 +68,23 @@ Focused on building robust, scalable systems and cloud architectures, specializi
 ## 💼 Experience
 
 ### 🔹 AI & Full Stack Engineer at Inerai (2024–Present)
+🔹 AI & Full Stack Engineer at Inerai (2024–Present)
 RAG-Based AI Communication Platform
+
 • Implemented and took part in architecting an E2E data ingestion pipeline and REST APIs using Node.js, Python, AWS Serverless (ECS, Lambda, SQS, S3 and more), MongoDB; utilized Docker, GCP Cloud Functions, and Vertex AI for high-scale asynchronous batch processing of thousands of multi-format files.
+
 • Designed and developed advanced RAG and semantic search queries pipelines (query expansion, reranking, HyDE and more) using Amazon Bedrock and AWS OpenSearch, integrating LLMs (GPT, Gemini, Claude) and MCP-driven automation to maximize retrieval precision and improve response efficiency.
+
 • Developed and deployed a responsive, real-time chatbot interface and back-office administration system using React, Redux, and Material UI, featuring streaming AI responses.
+
 • Managed version control with Git and implemented CI/CD pipelines (GitHub Actions) in an Agile (Jira) environment.
+
 • Accelerated development workflows and optimized code quality using AI-driven coding assistants (mostly GitHub Copilot, Claude Code, and Amazon Q).
+
 Social Networking Platform
+
 • Built a secure full-stack social platform using React, TypeScript with serverless approach applying Supabase Edge Functions, implementing Role-Based Access Control (RBAC) and custom RPCs for highly optimized database queries.
+
 • Engineered a semantic search system using Vector Embeddings and Supabase Vector Database (PostgreSQL) for fast and precise global content discovery.
 
 ### 🔹 Admin System Developer (2023–2024)
