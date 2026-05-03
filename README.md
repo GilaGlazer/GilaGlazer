@@ -68,7 +68,6 @@ Focused on building robust, scalable systems and cloud architectures, specializi
 ## 💼 Experience
 
 ### 🔹 AI & Full Stack Engineer at Inerai (2024–Present)
-ה
 #### RAG-Based AI Communication Platform
 
 • Implemented and took part in architecting an E2E data ingestion pipeline and REST APIs using Node.js, Python, AWS Serverless (ECS, Lambda, SQS, S3 and more), MongoDB; utilized Docker, GCP Cloud Functions, and Vertex AI for high-scale asynchronous batch processing of thousands of multi-format files.
@@ -80,8 +79,6 @@ Focused on building robust, scalable systems and cloud architectures, specializi
 • Managed version control with Git and implemented CI/CD pipelines (GitHub Actions) in an Agile (Jira) environment.
 
 • Accelerated development workflows and optimized code quality using AI-driven coding assistants (mostly GitHub Copilot, Claude Code, and Amazon Q).
-
----
 
 #### Social Networking Platform
 
